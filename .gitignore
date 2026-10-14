@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Data (raw and downloaded)
+data/
+*.zip
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets
+kaggle.json
+.env
+
+# OS clutter
+.DS_Store
